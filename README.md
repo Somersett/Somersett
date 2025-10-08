@@ -67,9 +67,11 @@ Actualmente estudio **Ingeniería de Software** en la **Fundación Escuela Tecno
 
 ### 🐍 Actividad reciente
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Somersett/Somersett/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
+<div align="center">
+  
+  ![snake gif](https://github.com/Somersett/Somersett/blob/output/github-snake-dark.svg)
+
+</div>
 
 ---
 
